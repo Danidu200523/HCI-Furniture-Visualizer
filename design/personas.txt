@@ -1,0 +1,48 @@
+Furniture Room Visualizer – Personas
+
+Persona 1: Senior Furniture Designer
+
+Name: Nimal Perera
+Age: 38
+Role: Senior Furniture Designer
+Experience: 10+ years in furniture design
+Technical Skill Level: Medium
+
+Goals:
+- Quickly show customers how furniture fits in their rooms
+- Experiment with colors and layouts during discussions
+- Save designs for future reference
+
+Frustrations:
+- Drawing layouts manually takes time
+- Difficult to explain final look without visuals
+- Customers struggle to imagine 3D space from sketches
+
+Needs:
+- Simple and clear interface
+- Ability to switch between 2D and 3D views
+- Easy color and size adjustments
+
+
+Persona 2: Junior Furniture Designer
+
+Name: Kavindu Silva
+Age: 24
+Role: Junior Furniture Designer
+Experience: 1 year
+Technical Skill Level: Low to Medium
+
+Goals:
+- Learn design layouts quickly
+- Avoid making mistakes during customer meetings
+- Follow predefined layouts and measurements
+
+Frustrations:
+- Complex software tools
+- Too many buttons and options
+- Fear of making errors in front of customers
+
+Needs:
+- Easy-to-understand controls
+- Clear visual feedback
+- Undo or reset options
