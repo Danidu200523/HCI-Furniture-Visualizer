@@ -1,0 +1,25 @@
+Furniture Room Visualizer – User Stories
+
+USER1:
+As a furniture designer, I want to log into the system so that only authorized designers can access the application.
+
+USER2:
+As a furniture designer, I want to define the room size, shape, and color scheme so that the design matches the customer’s actual room.
+
+USER3:
+As a furniture designer, I want to add furniture items such as chairs and tables so that I can design the room layout.
+
+USER4:
+As a furniture designer, I want to move and rearrange furniture in a 2D view so that I can experiment with different layouts easily.
+
+USER5:
+As a furniture designer, I want to view the designed layout in a 3D style so that customers can better visualize the final outcome.
+
+USER6:
+As a furniture designer, I want to change the color of furniture items so that they match the room’s color theme.
+
+USER7:
+As a furniture designer, I want to scale and rotate furniture so that it fits correctly within the room dimensions.
+
+USER8:
+As a furniture designer, I want to save, edit, or delete room designs so that I can reuse or modify designs later.
