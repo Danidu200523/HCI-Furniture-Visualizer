@@ -1,0 +1,16 @@
+Furniture Room Visualizer – Storyboard
+
+Screen 1: Login Screen
+The designer enters username and password to access the system.
+
+Screen 2: Room Setup Screen
+The designer inputs room dimensions, shape, and selects a color scheme.
+
+Screen 3: 2D Furniture Editor
+The designer adds, moves, resizes, and colors furniture items in a 2D top-down view.
+
+Screen 4: 3D Visualization View
+The system displays a 3D-style visualization of the designed room with shading and depth.
+
+Screen 5: Save / Edit Design
+The designer saves the current design or edits an existing one.
