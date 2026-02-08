@@ -1,0 +1,31 @@
+PUSL3122 – HCI, Graphics and Visualization
+Furniture Room Visualizer – Requirements
+
+1. Introduction
+This document lists the functional and non-functional requirements
+for the Furniture Room Visualizer desktop application.
+
+2. Stakeholders
+- Furniture shop designers (primary users)
+- Customers (secondary observers)
+
+3. Functional Requirements (Given)
+- Designer should be able to log in.
+- Designer should be able to define room size, shape and color scheme.
+- Designer should be able to create a new furniture design.
+- Designer should be able to visualize the design in 2D.
+- Designer should be able to visualize the design in 3D.
+- Designer should be able to scale furniture to fit the room.
+- Designer should be able to change colors of furniture.
+- Designer should be able to save, edit and delete designs.
+
+4. Additional Functional Requirements (Group Proposed)
+- Designer should be able to rotate furniture.
+- Designer should be able to drag and drop furniture.
+- Designer should be able to snap furniture to a grid.
+- Designer should be able to reset the design.
+
+5. Non-Functional Requirements
+- The system should be easy to use for non-technical designers.
+- The system should respond within 1 second for user actions.
+- The interface should be visually clear and consistent.
